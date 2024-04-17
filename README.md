@@ -5,11 +5,11 @@ The project focuses on building predictive models to forecast pick-up and drop-o
 **Code:** [LINK](https://github.com/ezhongguo/Bike-Sharing-Usage/blob/main/Predictive%20Modeling%20for%20Bike-Sharing%20Usage.ipynb)
 
 **Skills:**
-Data Analysis and Preprocessing
-Statistical Modeling and Machine Learning
-Python Programming (Pandas, NumPy, Scikit-learn)
-Data Visualization (Matplotlib, Seaborn)
-Linear Regression and Model Evaluation Metrics
+* Data Analysis and Preprocessing
+* Statistical Modeling and Machine Learning
+* Python Programming (Pandas, NumPy, Scikit-learn)
+* Data Visualization (Matplotlib, Seaborn)
+* Linear Regression and Model Evaluation Metrics
 
 
 **Roles:**
