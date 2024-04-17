@@ -9,8 +9,8 @@ Data Analysis and Preprocessing
 Statistical Modeling and Machine Learning
 Python Programming (Pandas, NumPy, Scikit-learn)
 Data Visualization (Matplotlib, Seaborn)
-Understanding of Linear Regression and Model Evaluation Metrics
-Domain Knowledge in Bike-Sharing Operations and Weather Impact
+Linear Regression and Model Evaluation Metrics
+
 
 **Roles:**
 Responsible for data preprocessing, feature selection, model development, and evaluation.
