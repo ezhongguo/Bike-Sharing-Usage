@@ -2,6 +2,8 @@
 **Description:**
 The project focuses on building predictive models to forecast pick-up and drop-off counts at bike-sharing stations. Utilizing historical data on weather conditions and bike-sharing usage, linear regression models were developed to provide insights into the optimal allocation of bikes and docks at specific stations. 
 
+**Code:** [LINK](https://github.com/ezhongguo/Bike-Sharing-Usage/blob/main/Predictive%20Modeling%20for%20Bike-Sharing%20Usage.ipynb)
+
 **Skills:**
 Data Analysis and Preprocessing
 Statistical Modeling and Machine Learning
